@@ -1,6 +1,6 @@
 # Arcatory — Sistem Inventori Gudang Berbasis Web
 
-Repository ini disusun berdasarkan makalah/proyek **Arcatory** yang membahas sistem inventori gudang berbasis web dengan pendekatan **Agile**, pemodelan **UML**, dan rancangan antarmuka berbasis peran. Sumber konsep utama diambil dari makalah yang menjelaskan metodologi, WBS, aktor sistem, alur activity/sequence, serta desain antarmuka untuk Admin Gudang, Manajer Gudang, dan Operator Gudang. fileciteturn0file0
+Repository ini disusun berdasarkan proyek **Arcatory** yang membahas sistem inventori gudang berbasis web dengan pendekatan **Agile**, pemodelan **UML**, dan rancangan antarmuka berbasis peran. Sumber konsep utama diambil dari makalah yang menjelaskan metodologi, WBS, aktor sistem, alur activity/sequence, serta desain antarmuka untuk Admin Gudang, Manajer Gudang, dan Operator Gudang.
 
 ## Ringkasan Proyek
 Arcatory dirancang untuk membantu pengelolaan data gudang secara lebih efisien melalui fitur-fitur berikut:
